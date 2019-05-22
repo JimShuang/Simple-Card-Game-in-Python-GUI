@@ -3,7 +3,7 @@ from tkinter import messagebox
 import os
 import poker
 
-image_path = r'C:\Users\jiajunshuang\Documents\Python\blackjack\cards'
+image_path = r'****directory to where you save Card Image****'
 balance = 1000
 b = 0
 w = 0
